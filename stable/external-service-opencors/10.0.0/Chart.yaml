@@ -9,14 +9,14 @@ description: Allow external services to be used like Apps.
 home: https://truecharts.org/charts/stable/external-service
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png
 keywords:
-  - external-service
+  - external-service-opencors
   - reverse-proxy
 kubeVersion: ">=1.16.0-0"
 maintainers:
-  - email: info@truecharts.org
-    name: TrueCharts
-    url: https://truecharts.org
-name: external-service
+  - email: maximilian.staab@mailbox.org
+    name: Maximilian Staab
+    url: https://github.com/Maximilian-Staab
+name: external-service-opencors
 sources:
   - https://github.com/truecharts/charts/tree/master/charts/stable/external-service
 type: application
